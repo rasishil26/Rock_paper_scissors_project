@@ -19,10 +19,6 @@ You chose: Paper
 Computer chose: Rock
 You win! 🎉
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 💡 What I Learned
