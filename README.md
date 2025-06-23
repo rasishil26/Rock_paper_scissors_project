@@ -41,5 +41,5 @@ You win! 🎉
 
 ## 🙋‍♀️ About Me
 
-I'm Rasi Shil — currently learning Python and building simple projects to strengthen my programming logic. This was a fun little game to code and a great learning experience for me.
+I'm Rasi Shil, currently learning Python and building simple projects to strengthen my programming logic. This was a fun little game to code and a great learning experience for me.
 
